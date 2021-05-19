@@ -4,12 +4,3 @@ description: A provider of highwork Solutions
 
 github:
   is_project_page: false
-exclude:
-  - CHANGELOG.md
-  - CNAME
-  - Gemfile
-  - Gemfile.lock
-  - LICENSE
- # - README.md
-  - screenshot.png
-  - docs/
