@@ -1,7 +1,8 @@
 ##Who we are
-Yorke Rigging solutions is a providor of rigging solutions
+Yorke Rigging is a providor of highworking solutions
 
-For more information contact us at [yorkeriggingsolutions@yahoo.com](Mailto:yorkeriggingsolutions@yahoo.com)
+For more information contact us at: 
+[yorkeriggingsolutions@yahoo.com](Mailto:yorkeriggingsolutions@yahoo.com)
 
 
 
