@@ -4,3 +4,6 @@ description: A provider of highwork Solutions
 
 github:
   is_project_page: false
+
+Exclude:
+- readme.md
