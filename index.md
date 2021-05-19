@@ -1,19 +1,10 @@
-# Who we are
+## Who we are
 Yorke Rigging is a providor of highworking solutions
+
+### Contact us
 
 For more information contact us at: 
 [yorkeriggingsolutions@yahoo.com](Mailto:yorkeriggingsolutions@yahoo.com)
-
-
-
-
-# Who we are
-Yorke Rigging solutions is a certified providor of rigging and high work 
-
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
