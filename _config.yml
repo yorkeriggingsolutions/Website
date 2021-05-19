@@ -1,4 +1,6 @@
 theme: jekyll-theme-cayman
+title: Yorke Rigging
+description: A provider of highwork Solutions
 exclude:
   - CHANGELOG.md
   - CNAME
